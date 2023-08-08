@@ -1,0 +1,2 @@
+(G1N1) ERR-42000(16442): invalid analyzed file format (table mismatch: CUST_BYSRV_LMT_NEW and PDH_INTFC_HIST)
+(G1N1) ERR-HY000(14015): there is no extendible datafile in tablespace 'MEM_TEMP_TBS'
