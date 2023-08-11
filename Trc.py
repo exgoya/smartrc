@@ -16,7 +16,8 @@ class Trc:
 d = Trc("system.trc")
 d.search("./lgtrc/G1N1")
 
-for filename in d.filenames:
-    print(filename)
+#for filename in d.filenames:
+print(d.filenames)
 
+del d
 #print(d.name)
