@@ -23,5 +23,5 @@ class Trc:
        del self
 
 with Trc() as d:
-  d.search("./lgtrc/G1N1","system.trc")
+  d.search("./trc/G1N1","system.trc")
   print(d.filenames)
